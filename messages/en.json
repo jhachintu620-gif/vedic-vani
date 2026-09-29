@@ -1,0 +1,25 @@
+{
+  "site": {
+    "name": "VedicVani",
+    "tagline": "A digital archive of Vedas, Upanishads, and devotional literature"
+  },
+  "nav": {
+    "home": "Home",
+    "chalisa": "Chalisa",
+    "aarti": "Aarti",
+    "vedas": "Vedas",
+    "upanishads": "Upanishads",
+    "about": "About"
+  },
+  "reader": {
+    "devanagari": "Devanagari",
+    "transliteration": "Roman",
+    "translation": "Translation",
+    "showAll": "Show all",
+    "hideTranslation": "Hide translation"
+  },
+  "deity": {
+    "hanuman": "Hanuman ji",
+    "narayan": "Narayan"
+  }
+}

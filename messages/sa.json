@@ -1,0 +1,25 @@
+{
+  "site": {
+    "name": "वेदवाणी",
+    "tagline": "वेदानाम् उपनिषदां भक्तिसाहित्यस्य च डिजिटलसङ्ग्रहः"
+  },
+  "nav": {
+    "home": "गृहम्",
+    "chalisa": "चालीसा",
+    "aarti": "आरती",
+    "vedas": "वेदाः",
+    "upanishads": "उपनिषदः",
+    "about": "परिचयः"
+  },
+  "reader": {
+    "devanagari": "देवनागरी",
+    "transliteration": "रोमन्",
+    "translation": "अनुवादः",
+    "showAll": "सर्वं दर्शय",
+    "hideTranslation": "अनुवादं गोपय"
+  },
+  "deity": {
+    "hanuman": "हनुमान्",
+    "narayan": "नारायणः"
+  }
+}
